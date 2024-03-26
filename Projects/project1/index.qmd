@@ -1,0 +1,18 @@
+---
+title: "Tipping in Taxis"
+---
+
+# Section Header
+
+This is my fancy project!
+
+## Sub-Section 1
+
+```{r}
+data(mtcars)
+plot(mpg ~ disp, data=mtcars)
+```
+
+-   one
+-   two
+-   three

@@ -1,0 +1,13 @@
+---
+title: "Quarto_Website"
+image: "Images/bio-photo.jpg"
+about:
+  template: trestles
+  links:
+    - icon: envelope
+      href: mailto:shk204@ucsd.edu
+    - icon: linkedin
+      href: https://www.linkedin.com/seungkim
+---
+
+Hello, I'm Seung!

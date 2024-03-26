@@ -1,0 +1,14 @@
+{
+  "hash": "8daf21dd2cf22f126de1a02888b76c0e",
+  "result": {
+    "markdown": "---\ntitle: \"Quarto_Website\"\nimage: \"Images/bio-photo.jpg\"\nabout:\n  template: jolla\n  links:\n    - icon: envelope\n      href: mailto:shk204@ucsd.edu\n    - icon: linkedin\n      href: https://www.linkedin.com/seungkim\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "hash": "3c78d37b3eacdaaf20c2eaade9f58412",
+  "result": {
+    "markdown": "---\ntitle: \"Tipping in Taxis\"\n---\n\n\n# Section Header\n\nThis is my fancy project!\n\n## Sub-Section 1\n\n\n::: {.cell}\n\n```{.r .cell-code}\ndata(mtcars)\nplot(mpg ~ disp, data=mtcars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n-   one\n-   two\n-   three\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
