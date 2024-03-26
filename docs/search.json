@@ -7,6 +7,13 @@
     "text": "Hello, I’m Seung!"
   },
   {
+    "objectID": "Projects/project2/index.html",
+    "href": "Projects/project2/index.html",
+    "title": "Project 2",
+    "section": "",
+    "text": "I really should work on this!"
+  },
+  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Curricum Vitae",
@@ -32,6 +39,6 @@
     "href": "projects.html",
     "title": "My Projects",
     "section": "",
-    "text": "Tipping in Taxis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Tipping in Taxis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
